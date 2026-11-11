@@ -1,0 +1,19 @@
+{
+  "routes": [
+    {
+      "path": "/captions.ttml",
+      "responses": [
+        {
+          "status": 200,
+          "headers": [
+            [
+              "Content-Type",
+              "application/ttml+xml"
+            ]
+          ],
+          "file": "captions.ttml"
+        }
+      ]
+    }
+  ]
+}

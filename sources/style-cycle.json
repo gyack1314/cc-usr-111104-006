@@ -1,0 +1,14 @@
+{
+  "routes": [
+    {
+      "path": "/captions.ttml",
+      "responses": [
+        {
+          "status": 200,
+          "headers": [],
+          "file": "style-cycle.ttml"
+        }
+      ]
+    }
+  ]
+}
